@@ -1,3 +1,4 @@
+
 AUTH_DATA = {
     'name': 'Николай',
     'surname': 'Смирнов',
