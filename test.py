@@ -8,7 +8,6 @@ import time
 import utils
 host = 'https://stellarburgers.nomoreparties.site/'
 
-
 class TestRegistration:
 
     def test_registration_with_name_not_empty_success(self):
