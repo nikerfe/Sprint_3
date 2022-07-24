@@ -1,3 +1,4 @@
+
 #Главная страница
 MAIN_LOCATORS = {
     'login_button': "//*[@id='root']/div/main/section[2]/div/button[text()='Войти в аккаунт']", #кнопка "Войти в аккаунт"
